@@ -1,1 +1,1 @@
-Solutions for 10 days of javascript challenge on hackerrank
+Code for Day-0
