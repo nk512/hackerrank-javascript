@@ -1,1 +1,1 @@
-code for Day-1
+code for day-1
